@@ -32,6 +32,7 @@ Contents (~19.03.04)
 * To be updated 
 
 
+***
 Tentative Curriculum
 -----
 ### Week 7. CNN Basics, Natural Language Processing Basics
