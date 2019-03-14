@@ -25,7 +25,11 @@ Contents (19.03.04~)
   * Lecturer: 임진혁님
   
 ### Week 4. Dimension Reduction, Model Performance Tuning
-* To be updated
+* PCA Implementation using Numpy
+* Training Time Reduction with PCA and t-SNE
+  * Lecturer: 이민주님
+
+
 ### Week 5. Neural Network Basics and Framework
 * Two Layer Net : Implementation of backprop. in two layer net 
   * Lecturer: 신훈철님
