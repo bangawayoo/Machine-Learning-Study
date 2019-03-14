@@ -1,6 +1,6 @@
 Machine Learning Overview 10 Week Study 
 =======
-Contents (~19.03.04)
+Contents (19.03.04~)
 --------
 ### Week 1. Linear, Logistic Regression
 * Linear Regression with Apartment Price Data
@@ -25,9 +25,17 @@ Contents (~19.03.04)
   * Lecturer: 임진혁님
   
 ### Week 4. Dimension Reduction, Model Performance Tuning
-* To be updated
+* PCA Implementation using Numpy
+* Training Time Reduction with PCA and t-SNE
+  * Lecturer: 이민주님
+
+
 ### Week 5. Neural Network Basics and Framework
-* To be updated
+* Two Layer Net : Implementation of backprop. in two layer net 
+  * Lecturer: 신훈철님
+* Image Classification using PyTorch 
+  * Lecturer: 이잉걸님
+  
 ### Week 6. Neural Network, Crawling 
 * To be updated 
 
