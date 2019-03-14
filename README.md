@@ -36,14 +36,26 @@ Contents (19.03.04~)
 * Image Classification using PyTorch 
   * Lecturer: 이잉걸님
   
+  
 ### Week 6. Neural Network, Crawling 
-* To be updated 
+* Batch Normalization Implementation & Dropout Implementation
+  * Lecturer: 박규리님
+* 다음 영화 크롤링 및 분석 
+  * Lectuerer: 임진혁님
+  * Info.: 16-18년도까지 Top 50 박스오피스 영화에 대한 정보를 크롤링한뒤, 년도별 분석을 시행했습니다. 크롤러를 사용하시려면 [여기](https://github.com/bangawayoo/Crawler-Collection) 를 참고해주세요.
 
 
-***
+### Week 7. CNN Basics, Natural Language Processing Basics
+* ConvNet 원리 이해 및 AlexNet 논문 리뷰 
+  * Lecturer: 박성진님 
+* Word2vec Implementation using TensorFlow (To be updated)
+* Example of Doc2Vec Implementation using Crawled Data
+  * Lecturer: 정윤호님
+
+
 Tentative Curriculum
 -----
-### Week 7. CNN Basics, Natural Language Processing Basics
+
 ### Week 8. More CNN
 ### Week 9. More NLP (RNN)
 ### Week 10. Reinforcement Learning 
