@@ -1,6 +1,6 @@
 Machine Learning Overview 10 Week Study 
 =======
-Contents (~19.03.04)
+Contents (19.03.04~)
 --------
 ### Week 1. Linear, Logistic Regression
 * Linear Regression with Apartment Price Data
