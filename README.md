@@ -27,7 +27,11 @@ Contents (~19.03.04)
 ### Week 4. Dimension Reduction, Model Performance Tuning
 * To be updated
 ### Week 5. Neural Network Basics and Framework
-* To be updated
+* Two Layer Net : Implementation of backprop. in two layer net 
+  * Lecturer: 신훈철님
+* Image Classification using PyTorch 
+  * Lecturer: 이잉걸님
+  
 ### Week 6. Neural Network, Crawling 
 * To be updated 
 
