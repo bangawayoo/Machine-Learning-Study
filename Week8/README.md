@@ -11,9 +11,9 @@ Please be sure to delete the */BACKGROUND_Google* folder as it contatins random 
 ### Prerequistites
 
 To install the version of the PyTorch the script was ran on please enter the following command.
-'''
+```
 conda install pytorch=1.0.1
-'''
+```
 
 ## Contribution
 All models used here were implemented by https://github.com/pytorch/vision.
