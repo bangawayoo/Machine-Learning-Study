@@ -4,7 +4,7 @@
 # In[3]:
 
 
-from tensorboardlogger import Logger
+#from tensorboardlogger import Logger
 from loader import data_loader
 import torch
 
