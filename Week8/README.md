@@ -5,7 +5,7 @@ Pytorch is used as the framework. You can find the dataset [here](http://www.vis
 
 ## Getting Started 
 
-For using the dataset class (dataset.py) module without any revision, I recommend you to downlaod the data from the above link given. 
+To use the Dataset Class (*dataset.py*) module without any revision, I recommend you to downlaod the data from the above link given. 
 Please be sure to delete the */BACKGROUND_Google* folder as it contatins random background images irrelevant of the 101 classes.
 
 ### Prerequistites
