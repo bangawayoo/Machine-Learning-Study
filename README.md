@@ -42,7 +42,7 @@ Contents (19.03.04~)
   * Lecturer: 박규리님
 * 다음 영화 크롤링 및 분석 
   * Lectuerer: 임진혁님
-  * Info.: 16-18년도까지 Top 50 박스오피스 영화에 대한 정보를 크롤링한뒤, 년도별 분석을 시행했습니다. 크롤러를 사용하시려면 [여기](https://github.com/bangawayoo/Crawler-Collection) 를 참고해주세요.
+  * Info: 16-18년도까지 Top 50 박스오피스 영화에 대한 정보를 크롤링한뒤, 년도별 분석을 시행했습니다. 크롤러를 사용하시려면 [여기](https://github.com/bangawayoo/Crawler-Collection) 를 참고해주세요.
 
 
 ### Week 7. CNN Basics, Natural Language Processing Basics
@@ -52,10 +52,13 @@ Contents (19.03.04~)
 * Example of Doc2Vec Implementation using Crawled Data
   * Lecturer: 정윤호님
 
-
+### Week 8. More CNN
+* Caltech101 Classification with VGG, ResNet using PyTorch
+  * Lecturer: 강인구님
+  * Info: The main task was creating a Dataset Class to use the CalTech101 data. VGG and ResNet were used to train and classify.  
+  
 Tentative Curriculum
 -----
 
-### Week 8. More CNN
 ### Week 9. More NLP (RNN)
 ### Week 10. Reinforcement Learning 
