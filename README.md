@@ -1,6 +1,6 @@
 Machine Learning Overview 10 Week Study 
 =======
-Contents (19.03.04~)
+Contents (19.02.04~19.04.03)
 --------
 ### Week 1. Linear, Logistic Regression
 * Linear Regression with Apartment Price Data
@@ -57,8 +57,3 @@ Contents (19.03.04~)
   * Lecturer: 강인구님
   * Info: The main task was creating a Dataset Class to use the CalTech101 data. VGG and ResNet were used to train and classify.  
   
-Tentative Curriculum
------
-
-### Week 9. More NLP (RNN)
-### Week 10. Reinforcement Learning 
